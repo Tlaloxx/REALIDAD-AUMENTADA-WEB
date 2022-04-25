@@ -2,7 +2,7 @@
 ###### Tools for AR web develop - Enjoy and use it wisely! - Tlaloc Alvarez
 
 ```
-https://tlaloxx.github.io/AR-TEST/
+https://tlaloxx.github.io/MULTI-TRACKING-IMAGES/
 
 ```
 ###### MIND AR LIBRARY
