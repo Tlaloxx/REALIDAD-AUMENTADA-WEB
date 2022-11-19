@@ -29,16 +29,11 @@ https://www.w3schools.com/js/
 
 ## AR.JS
 
-| Library               | Link                                                   |
-| ------                | -----------                                            |
-| Library               | https://hiukim.github.io/mind-ar-js-doc/               | 
-| Image target compiler | https://hiukim.github.io/mind-ar-js-doc/tools/compile/ | 
+| Library               | Link                                     |
+| ------                | -----------                              |
+| Library               | https://ar-js-org.github.io/AR.js-Docs/  | 
+| Image target compiler | https://ar-js-org.github.io/studio/      | 
 
-###### AR.JS LIBRARY
-https://ar-js-org.github.io/AR.js-Docs/
-
-###### AR.JS STUDIO
-https://ar-js-org.github.io/studio/
 
 Right aligned columns
 
