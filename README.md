@@ -20,14 +20,14 @@ https://www.w3schools.com/js/
 
 ```
 
-## MindAR
+__MindAR__
 
 | Library | Link |
 | ------ | ----------- |
 | MIND AR LIBRARY       | https://hiukim.github.io/mind-ar-js-doc/               | 
 | IMAGE TARGET COMPILER | https://hiukim.github.io/mind-ar-js-doc/tools/compile/ | 
 
-## AR.JS
+__AR.JS__
 
 | Library               | Link                                     |
 | ------                | -----------                              |
