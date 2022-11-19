@@ -8,12 +8,6 @@ https://tlaloxx.github.io/REALIDAD-AUMENTADA-WEB/
 ###### AFRAME LIBRARY
 https://aframe.io/ 
 
-###### AR.JS LIBRARY
-https://ar-js-org.github.io/AR.js-Docs/
-
-###### AR.JS STUDIO
-https://ar-js-org.github.io/studio/
-
 ###### THREEJS LIBRARY
 https://threejs.org/
 
@@ -26,15 +20,25 @@ https://www.w3schools.com/js/
 
 ```
 
-## Tables
+## MindAR
 
 | Library | Link |
 | ------ | ----------- |
 | MIND AR LIBRARY       | https://hiukim.github.io/mind-ar-js-doc/               | 
 | IMAGE TARGET COMPILER | https://hiukim.github.io/mind-ar-js-doc/tools/compile/ | 
-| ext    | extension to be used for dest files. | 
-| ext    | extension to be used for dest files. |
-| ext    | extension to be used for dest files. |
+
+## AR.JS
+
+| Library               | Link                                                   |
+| ------                | -----------                                            |
+| Library               | https://hiukim.github.io/mind-ar-js-doc/               | 
+| Image target compiler | https://hiukim.github.io/mind-ar-js-doc/tools/compile/ | 
+
+###### AR.JS LIBRARY
+https://ar-js-org.github.io/AR.js-Docs/
+
+###### AR.JS STUDIO
+https://ar-js-org.github.io/studio/
 
 Right aligned columns
 
