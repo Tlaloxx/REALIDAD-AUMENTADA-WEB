@@ -32,4 +32,18 @@ https://www.w3schools.com/js/
 
 ```
 
+## Tables
 
+| Library | Description | Link |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. | jhgfghj |
+| engine | engine to be used for processing templates. Handlebars is the default. | dffdfg |
+| ext    | extension to be used for dest files. | uyyuiiuy |
+
+Right aligned columns
+
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
