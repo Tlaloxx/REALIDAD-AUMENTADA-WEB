@@ -21,8 +21,8 @@ __MindAR__
 
 | Description           | Link                                                                        |
 | ------                | -----------                                                                 |
-| MIND AR LIBRARY       | [Open library here](https://hiukim.github.io/mind-ar-js-doc/)               | 
-| IMAGE TARGET COMPILER | [Link to compiler](https://hiukim.github.io/mind-ar-js-doc/tools/compile/)  | 
+| Library               | [Open library here](https://hiukim.github.io/mind-ar-js-doc/)               | 
+| Image target compiler | [Link to compiler](https://hiukim.github.io/mind-ar-js-doc/tools/compile/)  | 
 
 __AR.JS__
 
