@@ -19,24 +19,24 @@ https://www.w3schools.com/js/
 
 __MindAR__
 
-| Description           | Link                                                   |
-| ------                | -----------                                            |
-| MIND AR LIBRARY       | https://hiukim.github.io/mind-ar-js-doc/               | 
-| IMAGE TARGET COMPILER | https://hiukim.github.io/mind-ar-js-doc/tools/compile/ | 
+| Description           | Link                                                                        |
+| ------                | -----------                                                                 |
+| MIND AR LIBRARY       | [Open library here](https://hiukim.github.io/mind-ar-js-doc/)               | 
+| IMAGE TARGET COMPILER | [Link to compiler](https://hiukim.github.io/mind-ar-js-doc/tools/compile/)  | 
 
 __AR.JS__
 
-| Description           | Link                                     |
-| ------                | -----------                              |
-| Library               | https://ar-js-org.github.io/AR.js-Docs/  | 
-| Image target compiler | https://ar-js-org.github.io/studio/      | 
+| Description           | Link                                                          |
+| ------                | -----------                                                   |
+| Library               | [Open library here](https://ar-js-org.github.io/AR.js-Docs/)  | 
+| Image target compiler | [Link to compiler](https://ar-js-org.github.io/studio/)       | 
 
 __Aframe__
 
-| Description           | Link                                     |
-| ------                | -----------                              |
-| Library               | [link](https://aframe.io/)               | 
-| Image target compiler | https://ar-js-org.github.io/studio/      | 
+| Description           | Link                                                                                                                            |
+| ------                | -----------                                                                                                                     |
+| Library               | [Open library here](https://aframe.io/)                                                                                         | 
+| Image target compiler | [Link to compiler](https://aframe.io/docs/1.3.0/introduction/visual-inspector-and-dev-tools.html#gui-tools-based-on-a-frame)    | 
 
 
 Right aligned columns
