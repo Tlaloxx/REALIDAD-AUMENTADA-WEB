@@ -5,9 +5,6 @@
 https://tlaloxx.github.io/REALIDAD-AUMENTADA-WEB/
 
 ```
-###### AFRAME LIBRARY
-https://aframe.io/ 
-
 ###### THREEJS LIBRARY
 https://threejs.org/
 
@@ -22,16 +19,23 @@ https://www.w3schools.com/js/
 
 __MindAR__
 
-| Library | Link |
-| ------ | ----------- |
+| Description           | Link                                                   |
+| ------                | -----------                                            |
 | MIND AR LIBRARY       | https://hiukim.github.io/mind-ar-js-doc/               | 
 | IMAGE TARGET COMPILER | https://hiukim.github.io/mind-ar-js-doc/tools/compile/ | 
 
 __AR.JS__
 
-| Library               | Link                                     |
+| Description           | Link                                     |
 | ------                | -----------                              |
 | Library               | https://ar-js-org.github.io/AR.js-Docs/  | 
+| Image target compiler | https://ar-js-org.github.io/studio/      | 
+
+__Aframe__
+
+| Description           | Link                                     |
+| ------                | -----------                              |
+| Library               | [link](https://aframe.io/)               | 
 | Image target compiler | https://ar-js-org.github.io/studio/      | 
 
 
