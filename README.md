@@ -41,10 +41,10 @@ __Aframe__
 
 __Three.js__
 
-| Description           | Link                                                                                       |
-| ------                | -----------                                                                                |
-| Library               | [Open library here]([https://ar-js-org.github.io/AR.js-Docs/](https://threejs.org/))       | 
-| Some examples         | [Link to compiler]([https://ar-js-org.github.io/studio/](https://threejs.org/examples/))   | 
+| Description           | Link                                               |
+| ------                | -----------                                        |
+| Library               | [Open library here](https://threejs.org/))         | 
+| Some examples         | [Link to compiler](https://threejs.org/examples/)) | 
 
 
 Right aligned columns
