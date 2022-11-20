@@ -43,8 +43,8 @@ __Three.js__
 
 | Description           | Link                                               |
 | ------                | -----------                                        |
-| Library               | [Open library here](https://threejs.org/))         | 
-| Some examples         | [Link to compiler](https://threejs.org/examples/)) | 
+| Library               | [Open library here](https://threejs.org/)         | 
+| Some examples        .        | [Link to compiler](https://threejs.org/examples/) | 
 
 
 Right aligned columns
